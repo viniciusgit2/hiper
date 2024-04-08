@@ -25,6 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.vermelha{
+  color: red;
+}
 
 @layer utilities {
   .text-balance {
