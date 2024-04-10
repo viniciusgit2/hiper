@@ -1,14 +1,13 @@
 export default function terceiro(){
-    const array =[
+    const array =(
+        <ul>
     <li>paulo</li>,
     <li>ana</li>,
     <li>pedro</li>
-
-    ]
-    const conteudo=(
-        <div> terceiro</div>
+    </ul>
     )
+   
 
-    return (conteudo)
+    return ((array))
 
 }
