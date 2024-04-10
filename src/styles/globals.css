@@ -17,7 +17,8 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  background-color: black;
+  color:crimson;
   background: linear-gradient(
       to bottom,
       transparent,
@@ -28,7 +29,9 @@ body {
 .vermelha{
   color: red;
 }
-
+.azul{
+  color: blue;
+}
 @layer utilities {
   .text-balance {
     text-wrap: balance;
