@@ -1,8 +1,8 @@
-import filho from "./filho"
+import Filho from "./Filho"
 export default function pai(){
     return (
         <div>
-            <filho></filho>
+            <Filho familia='albuquereque'></Filho>
         </div>
     )
 }
